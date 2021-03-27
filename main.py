@@ -7,4 +7,8 @@ line = 'aaa, bbb, cccc, ddd'
 line.split(',')
 print(line)
 
+s = 'A\nB\tC'
+print(len(s))
+
+
 
